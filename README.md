@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook (`covid-19-data-analysis.ipynb`) foc
 - Matplotlib / Seaborn (data visualization, if included)
 
 ## 📂 Dataset
-The data comes from [WHO COVID-19 Global Data](/kaggle/input/covid19-data-who-cases-vaccinations).  
+The data comes from [WHO COVID-19 Global Data](https://www.kaggle.com/datasets/harshjhunjhunwala/covid19-data-who-cases-vaccinations).  
 Key files include:
 - `WHO-COVID-19-global-table-data.csv`
 - `vaccination-metadata.csv`
