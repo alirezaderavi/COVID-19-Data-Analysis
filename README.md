@@ -1,2 +1,28 @@
-# COVID-19-Data-Analysis
-This project is a Jupyter Notebook for COVID-19 data analysis, focusing on worldwide cases, deaths, and vaccination progress. The datasets are sourced from the World Health Organization (WHO) and processed using Pandas and NumPy. The goal of this project is to provide insights into the global trends of the pandemic and vaccination rollout.
+# COVID-19 Data Analysis
+
+This repository contains a Jupyter Notebook (`covid-19-data-analysis.ipynb`) focused on analyzing **COVID-19 global data** including confirmed cases, deaths, and vaccination progress. The dataset is provided by **WHO**.
+
+## 📊 Project Overview
+- Load and explore WHO COVID-19 datasets (cases, deaths, vaccination metadata).
+- Perform preprocessing and cleaning of raw CSV files.
+- Analyze global and regional COVID-19 trends.
+- Generate insights on vaccination progress.
+
+## 🛠️ Technologies Used
+- Python 3
+- Pandas (data analysis)
+- NumPy (numerical computing)
+- Matplotlib / Seaborn (data visualization, if included)
+
+## 📂 Dataset
+The data comes from [WHO COVID-19 Global Data](https://covid19.who.int/).  
+Key files include:
+- `WHO-COVID-19-global-table-data.csv`
+- `vaccination-metadata.csv`
+- `WHO-COVID-19-global-data.csv`
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/covid-19-data-analysis.git
+   cd covid-19-data-analysis
